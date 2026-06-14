@@ -13,7 +13,7 @@ long‑term memory systems
 
 feedback‑driven behavior
 
-emergent patterns on low‑power hardware (Raspberry Pi 5)
+emergent patterns on low‑power hardware
 
 🌱 What I’m Learning
 I’m focused on connecting ideas across:
