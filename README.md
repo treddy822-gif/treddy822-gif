@@ -21,5 +21,3 @@ AI • Philosophy of Mind • Cosmology • Complexity Science • Systems Theor
 
 🎯 Goal
 To contribute to AI research, conceptual analysis, or technical research support roles where cross‑domain reasoning matters.
-
-LINKS: thehumanfilter.github.io
